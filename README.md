@@ -14,6 +14,6 @@ This is an open-source, cost-effective, and highly customizable macro pad design
 ## Repository Structure
 * `/Hardware` - Altium Designer project, schematics, PCB layouts, and Gerber files (Will be uploaded).
 * `/Firmware` - C source code for the ATmega32U4 microcontroller.
-* `/APP` - Python source code for the Hive Center desktop application.
+* `/App` - Python source code for the Hive Center desktop application.
 * `/Mechanical` - STL files and 3D models for the enclosure (Will be uploaded).
 
